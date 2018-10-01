@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/mnu_item_three"
+        android:title="@string/menu_item_three"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/film" />
+    <item
+        android:id="@+id/mnu_item_two"
+        android:title="@string/menu_item_two"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/nave" />
+
+    <item
+        android:id="@+id/mnu_item_one"
+        android:title="@string/menu_item_one"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/actor" />
+
+    <item
+        android:id="@+id/mnu_item_four"
+        android:title="@string/menu_item_four"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/vehiculo" />
+
+    <item
+        android:id="@+id/mnu_item_five"
+        android:title="@string/menu_item_five"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/especie" />
+
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SWInfoApp</string>
+    <string name="menu_item_one">Personajes</string>
+    <string name="menu_item_two">Naves</string>
+    <string name="menu_item_three">Peliculas</string>
+    <string name="menu_item_four">Vehiculos</string>
+    <string name="menu_item_five">Especies</string>
+</resources>
